@@ -1,0 +1,24 @@
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Team WASD - Game Store Stock Management System.dll.config
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Team WASD - Game Store Stock Management System.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Team WASD - Game Store Stock Management System.pdb
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\EntityFramework.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\EntityFramework.SqlServer.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\EntityFramework.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\EntityFramework.SqlServer.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\Team WASD - Game Store Stock Management System.csproj.CoreCompileInputs.cache
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\Team WASD - Game Store Stock Management System.csproj.CopyComplete
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\Team WASD - Game Store Stock Management System.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\Team WASD - Game Store Stock Management System.pdb
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\Team WASD - Game Store Stock Management System.csprojAssemblyReference.cache
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Team WASD - Game Store Stock Management System.dll.config
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Team WASD - Game Store Stock Management System.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Team WASD - Game Store Stock Management System.pdb
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\EntityFramework.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\EntityFramework.SqlServer.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\EntityFramework.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\EntityFramework.SqlServer.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\Team WASD - Game Store Stock Management System.csprojAssemblyReference.cache
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\Team WASD - Game Store Stock Management System.csproj.CoreCompileInputs.cache
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\Team WASD - Game Store Stock Management System.csproj.CopyComplete
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\Team WASD - Game Store Stock Management System.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\Team WASD - Game Store Stock Management System.pdb
